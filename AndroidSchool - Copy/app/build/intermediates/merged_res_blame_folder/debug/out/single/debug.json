@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/drawable_boy2.png.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/drawable/boy2.png"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/drawable_girl.png.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/drawable/girl.png"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/drawable_girl1.png.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/drawable/girl1.png"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/xml_data_extraction_rules.xml.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/drawable_boy.png.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/drawable/boy.png"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/layout_activity_splash_screen.xml.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/drawable_girl2.png.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/drawable/girl2.png"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/layout_list_item.xml.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/xml_backup_rules.xml.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/drawable_boy1.png.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/drawable/boy1.png"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.mohammedev.androidschool.app-merged_res-30:/raw_student.json.flat",
+        "source": "com.mohammedev.androidschool.app-main-32:/raw/student.json"
+    }
+]
